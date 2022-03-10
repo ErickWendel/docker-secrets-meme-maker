@@ -1,0 +1,2 @@
+gm -version
+gm -convert "img/sorry.jpg" -monochrome sorry.jpg
